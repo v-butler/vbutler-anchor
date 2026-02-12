@@ -25,6 +25,14 @@
 - Do not override the file silently.
 - Do not average or merge conflicting information.
 
+## Current Operational Baseline
+- Platform: Windows 11 Pro
+- Primary system: Bob
+- Web server: IIS (Internet Information Services)
+- Project state: Stable
+- Merlin status: Migrated from Linux, Windows-native, ready for dashboard development
+- Explicit constraint: Linux is no longer in use and must not be assumed
+
 ## Unknowns Rule
 - If required information is not present in this file, do not guess.
 - State clearly: "Information not available in sanity anchor."
